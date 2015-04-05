@@ -9,7 +9,7 @@
   "requireLineFeedAtFileEnd": true,
   "disallowMultipleSpaces"  : true,
 
-  "maximumLineLength": {
+  "maximumLineLength" : {
     "value"           : 120,
     "allowUrlComments": true
   },
@@ -43,40 +43,40 @@
   "disallowSpacesInCallExpression"   : true,
 
   "requireCurlyBraces": [
-    "if",
-    "else",
-    "for",
+    "if"   ,
+    "else" ,
+    "for"  ,
     "while",
-    "do",
-    "try",
+    "do"   ,
+    "try"  ,
     "catch"
   ],
 
   "requireSpaceAfterKeywords": [
-    "do",
-    "for",
-    "if",
-    "else",
-    "switch",
-    "case",
-    "try",
-    "catch",
+    "do"     ,
+    "for"    ,
+    "if"     ,
+    "else"   ,
+    "switch" ,
+    "case"   ,
+    "try"    ,
+    "catch"  ,
     "finally",
-    "void",
-    "while",
-    "return",
-    "typeof",
+    "void"   ,
+    "while"  ,
+    "return" ,
+    "typeof" ,
     "function"
   ],
 
   "disallowKeywords": [
-    "with",
-    "var"
+    "var",
+    "with"
   ],
 
   "disallowKeywordsOnNewLine": [
-    "else",
-    "catch",
+    "else"  ,
+    "catch" ,
     "finally"
   ],
 
@@ -87,9 +87,9 @@
   ],
 
   "disallowOperatorBeforeLineBreak": [
+    "~",
     ".",
-    "::",
-    "~"
+    "::"
   ],
 
   "requireSpacesInFunctionDeclaration": {
@@ -126,8 +126,8 @@
 
   "disallowImplicitTypeConversion": [
     "numeric",
-    "boolean",
-    "binary",
-    "string"
+    "string" ,
+    "binary" ,
+    "boolean"
   ]
 }
