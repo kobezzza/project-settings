@@ -26,7 +26,6 @@
   "disallowSpacesInsideParentheses": true,
   "disallowSpacesInsideArrayBrackets": true,
   "disallowSpaceAfterObjectKeys": true,
-  "disallowSpacesInsideObjectBrackets": true,
   "requireSpaceBeforeObjectValues": true,
   "disallowTrailingComma": true,
 
