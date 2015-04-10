@@ -1,5 +1,15 @@
 {
   "esnext": true,
+  "fileExtensions": [".js"],
+  "excludeFiles": [
+    "gulpfile.js",
+    "externs.js",
+    "dist/*",
+    "spec/**/*",
+    "predefs/**/*",
+    "node_modules/**/*",
+    "bower_components/**/*"
+  ],
 
   "validateIndentation": "\t",
   "disallowMixedSpacesAndTabs": "smart",
@@ -14,7 +24,6 @@
     "allowUrlComments": true
   },
 
-  "safeContextKeyword": "that",
   "disallowYodaConditions": true,
   "validateQuoteMarks": "'",
   "requireSemicolons": true,
