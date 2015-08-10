@@ -13,3 +13,13 @@ kobezzza
 editorconfig
 gitattributes
 jscsrc
+defs
+decl
+yielder
+modi
+looper
+contrib
+fileapi
+indexeddb
+onsuccess
+onupgradeneeded
