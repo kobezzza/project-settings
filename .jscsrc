@@ -27,19 +27,18 @@
   "requireSemicolons": true,
 
   "requireNumericLiterals": true,
-  "requireTemplateStrings": true,
   "requireSpread": true,
 
-  "disallowSpaceBeforeComma": true,
   "requireCommaBeforeLineBreak": true,
+  "disallowTrailingComma": true,
   "disallowMultipleLineStrings": true,
   "disallowMultipleLineBreaks": true,
 
+  "disallowSpaceBeforeComma": true,
   "disallowSpacesInsideParentheses": true,
   "disallowSpacesInsideArrayBrackets": true,
   "disallowSpaceAfterObjectKeys": true,
   "requireSpaceBeforeObjectValues": true,
-  "disallowTrailingComma": true,
 
   "requireSpaceAfterLineComment": {
     "allExcept": [
