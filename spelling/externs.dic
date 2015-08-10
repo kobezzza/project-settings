@@ -4,3 +4,6 @@ predefs
 externs
 rgxp
 escaper
+jscomp
+npmignore
+gitignore
