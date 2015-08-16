@@ -38,6 +38,9 @@ uint
 polyfills
 memoization
 iterable
+esprima
+escodegen
+escope
 AAAF
 AABD
 AADB
