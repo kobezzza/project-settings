@@ -37,3 +37,4 @@ crypto
 uint
 polyfills
 memoization
+iterable
