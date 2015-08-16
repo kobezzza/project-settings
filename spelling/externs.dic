@@ -38,6 +38,9 @@ uint
 polyfills
 memoization
 iterable
+replacers
+sweetjs
+monic
 esprima
 escodegen
 escope
