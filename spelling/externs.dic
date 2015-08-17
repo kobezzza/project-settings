@@ -37,6 +37,7 @@ crypto
 uint
 polyfills
 memoization
+instanceof
 iterable
 replacers
 sweetjs
