@@ -25,6 +25,12 @@ fileapi
 indexeddb
 onsuccess
 onupgradeneeded
+mousedown
+touchstart
+mousemove
+touchmove
+mouseup
+touchend
 unshift
 github
 eols
