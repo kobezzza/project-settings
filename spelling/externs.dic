@@ -9,6 +9,8 @@ npmignore
 gitignore
 yaspeller
 yaspellerrc
+bowerrc
+babelrc
 kobezzza
 editorconfig
 gitattributes
