@@ -15,6 +15,9 @@ kobezzza
 editorconfig
 gitattributes
 jscsrc
+eslintrc
+jslintrc
+jshintrc
 defs
 decl
 yielder
