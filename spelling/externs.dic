@@ -57,6 +57,8 @@ esprima
 escodegen
 escope
 dirname
+mkdirp
+promisify
 AAAF
 AABD
 AADB
