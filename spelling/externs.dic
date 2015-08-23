@@ -59,6 +59,8 @@ escope
 dirname
 mkdirp
 promisify
+stdin
+stdout
 AAAF
 AABD
 AADB
