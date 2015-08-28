@@ -60,6 +60,7 @@ dirname
 mkdirp
 promisify
 doctype
+babelify
 stdin
 stdout
 AAAF
