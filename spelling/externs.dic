@@ -61,6 +61,7 @@ mkdirp
 promisify
 doctype
 babelify
+browserify
 stdin
 stdout
 AAAF
