@@ -61,6 +61,7 @@ mkdirp
 promisify
 doctype
 babelify
+querystring
 browserify
 autoprefixer
 postcss
