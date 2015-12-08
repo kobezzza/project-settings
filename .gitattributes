@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Perform LF normalization
+* text eol=lf
+
+# Exclude binary files from LF normalization
+*.jar binary
