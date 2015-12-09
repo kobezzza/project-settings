@@ -59,6 +59,7 @@ esprima
 escodegen
 escope
 dirname
+extname
 mkdirp
 promisify
 doctype
