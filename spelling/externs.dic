@@ -29,6 +29,7 @@ externs
 rgxp
 escaper
 jscomp
+jscs
 npmignore
 gitignore
 yaspeller
