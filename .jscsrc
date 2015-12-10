@@ -145,6 +145,7 @@
 
   "requireCapitalizedConstructors": true,
   "requireCamelCaseOrUpperCaseIdentifiers": true,
+  "requireEarlyReturn": true,
   "disallowSpacesInGenerator": {
     "beforeStar": true
   },
