@@ -93,6 +93,8 @@ cutted
 babelify
 querystring
 transpiler
+instrumenter
+multiline
 protos
 browserify
 autoprefixer
