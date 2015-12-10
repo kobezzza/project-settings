@@ -87,6 +87,7 @@ dirname
 extname
 mkdirp
 promisify
+isparta
 doctype
 cutted
 babelify
