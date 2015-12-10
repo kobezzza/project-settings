@@ -63,8 +63,11 @@ extname
 mkdirp
 promisify
 doctype
+cutted
 babelify
 querystring
+transpiler
+protos
 browserify
 autoprefixer
 sourcemaps
