@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/kobezzza/project-settings#readme",
   "dependencies": {
-    "jscs": "^2.0.0"
+    "jscs": "^3.0.0"
   }
 }
