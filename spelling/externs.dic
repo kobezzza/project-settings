@@ -43,6 +43,7 @@ noninfringement
 destructuring
 jscsrc
 eslintrc
+eslintignore
 jslintrc
 jshintrc
 defs
