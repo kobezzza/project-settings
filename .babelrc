@@ -1,8 +1,4 @@
 {
-  "presets": ["es2015", "stage-0"],
-  "compact": false,
-  "auxiliaryCommentBefore": "istanbul ignore next",
-  "plugins": [
-    "transform-undefined-to-void"
-  ]
+  "presets": [["@babel/preset-env", {"modules": false}]],
+  "compact": false
 }

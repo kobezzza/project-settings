@@ -25,6 +25,7 @@ $RECYCLE.BIN
 .DS_Store
 .AppleDouble
 .LSOverride
+.vscode
 
 # Icon must ends with two \r.
 Icon
@@ -37,15 +38,25 @@ Icon
 .Trashes
 
 # Dependencies
-bower_components
-node_modules
+/bower_components
+/node_modules
 
 # Build && test
 /coverage
+/dist
+/tsconfig.json
+.env
 
 # Log
 *.log
+/stats.json
 
 # Temporary
 *.tmp
+*.gz
+/Releases-js
 /tmp
+/app-cache
+/app-std-cache
+/src/entries/tmp
+/db

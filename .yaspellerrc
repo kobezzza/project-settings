@@ -5,7 +5,8 @@
   "ignoreUrls": true,
 
   "fileExtensions": [
-    ".md"
+    ".md",
+    ".html"
   ],
 
   "excludeFiles": [
@@ -17,5 +18,10 @@
     "predefs"
   ],
 
-  "dictionary": []
+  "dictionary": [
+    "maintainers?",
+    "sexualized",
+    "minimalistic",
+    "js|cli"
+  ]
 }

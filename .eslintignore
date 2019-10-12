@@ -1,4 +1,5 @@
-externs.js
+**/*.ts
 dist/**
-spec/**
-predefs/**
+src/*/**/index.js
+src/*/**/*.index.js
+src/**/*_es5.js
